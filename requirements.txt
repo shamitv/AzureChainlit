@@ -1,0 +1,7 @@
+azure-ai-inference
+openai
+Pillow
+chainlit
+azure-core
+python-dotenv
+pychrome
